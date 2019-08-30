@@ -1,0 +1,32 @@
+Loading required package: methods
+Linking to GEOS 3.5.1, GDAL 2.2.2, PROJ 4.9.2
+Loading required package: sp
+
+
+###############################################################################
+Science Cluster
+Job 8827002 for user 'vbarbarossa'
+Finished at: Thu Jul 11 12:44:21 CEST 2019
+
+Job details:
+============
+
+Name                : define_sampling_points.sh
+User                : vbarbarossa
+Partition           : milkun
+Nodes               : cn36
+Cores               : 10
+State               : RUNNING
+Submit              : 2019-07-11T12:39:23
+Start               : 2019-07-11T12:39:24
+End                 : --
+Reserved walltime   : 3-00:00:00
+Used walltime       :   00:04:57
+Used CPU time       :   00:37:59 (efficiency: 76.75%)
+% User (Computation): 99.78%
+% System (I/O)      :  0.22%
+Mem reserved        : 10G/node
+Max Mem used        : 4.59G (cn36)
+Max Disk Write      : 0.00  (cn36)
+Max Disk Read       : 399.36K (cn36)
+

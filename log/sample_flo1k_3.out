@@ -1,0 +1,32 @@
+Loading required package: sp
+Loading required package: methods
+Linking to GEOS 3.5.1, GDAL 2.2.2, PROJ 4.9.2
+
+
+###############################################################################
+Science Cluster
+Job 8827929 for user 'vbarbarossa'
+Finished at: Thu Jul 11 13:59:10 CEST 2019
+
+Job details:
+============
+
+Name                : sample_flo1k.sh
+User                : vbarbarossa
+Partition           : milkun
+Nodes               : cn37
+Cores               : 10
+State               : RUNNING
+Submit              : 2019-07-11T13:40:22
+Start               : 2019-07-11T13:40:22
+End                 : --
+Reserved walltime   : 3-00:00:00
+Used walltime       :   00:18:48
+Used CPU time       :   01:27:36 (efficiency: 46.60%)
+% User (Computation): 94.75%
+% System (I/O)      :  5.25%
+Mem reserved        : 40G/node
+Max Mem used        : 17.97G (cn37)
+Max Disk Write      : 0.00  (cn37)
+Max Disk Read       : 399.36K (cn37)
+
