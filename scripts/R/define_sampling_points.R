@@ -8,6 +8,8 @@ library(sf); library(raster)
 # riv_spl <- split(riv, rep(1:10, each=ceiling(nrow(riv)/10), length.out=nrow(riv)))
 # for(j in 1:10) saveRDS(riv_spl[[j]],paste0('proc/drainage_lines24_spl',j,'.rds'))
 
+if(!dir.exists('proc')) dir.create('proc') # create proc folder
+
 # number of cores used for the parallelized calculations
 NC <- 10
 riv <- readRDS(paste0('proc/drainage_lines24_spl',g,'.rds'))
